@@ -18,11 +18,11 @@ C. Set up Whatsapp Rotator
   1. Make sure that you have activated Whatsapp Commerce feature first. Log in to https://app.avana.asia/ using your personal Facebook or Gmail account > go to Apps > Whatsapp > Whatsapp Commerce > Tick YES to enable this feature
   2. Go to Whatsapp Rotator > Tick YES to enable this feature > click on Add More to add more than one phone number > click Save
   3. To start contacting your customers through your dashboard, you can go to My Orders > choose Order ID > click on Whatsapp logo next to the customer’s name
-  4. Whatsapp Web will open on a new tab. You can proceed to contact the customers.
+  4. Whatsapp Web will open on a new tab. You can proceed to contact your customers.
   
 Pro-tips
 
-1. For Whatsapp Rotator, it will work correctly if you activate both Whatsapp Commerce and Whatsapp Rotator in the dashboard.
+1. For Whatsapp Rotator, it will work correctly if you have activated both Whatsapp Commerce and Whatsapp Rotator in the dashboard.
 2. If you have set up more than one Customer Service number for Whatsapp Rotator but the message is sent by only one number, this is because once the customer created order by clicking Order through Whatsapp, the customer’s number keyed in by the customer will be served by the same Customer Service number that previously served the customer.
 
 Additional features (if needed)
