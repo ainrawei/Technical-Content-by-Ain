@@ -1,0 +1,30 @@
+Introduction
+
+Here we share with you on how to use our Whatsapp Commerce and Whatsapp Rotator features on AVANA dashboard to follow up with your customers.
+
+Step-by-step guide
+
+A. Set up your phone number as your main contact info
+  1. Log in to https://app.avana.asia/ using your personal Facebook or Gmail account
+  2. Go to Settings > Store Information > General > Phone Number > key in your phone number > click Save
+
+B. Set up Whatsapp Commerce
+  1. Log in to https://app.avana.asia/ using your personal Facebook or Gmail account
+  2. Click on Apps > Whatsapp > Whatsapp Commerce > tick YES to enable this feature
+  3. You can customize your shop logo for Whatsapp Commerce. Click Change Picture to upload your shop logo.
+  4. Scroll to Whatsapp Commerce URL > click on Copy Link > share with your customers so that they can submit order and make payment through the Whatsapp Commerce link given.
+  
+C. Set up Whatsapp Rotator
+  1. Make sure that you have activated Whatsapp Commerce feature first. Log in to https://app.avana.asia/ using your personal Facebook or Gmail account > go to Apps > Whatsapp > Whatsapp Commerce > Tick YES to enable this feature
+  2. Go to Whatsapp Rotator > Tick YES to enable this feature > click on Add More to add more than one phone number > click Save
+  3. To start contacting your customers through your dashboard, you can go to My Orders > choose Order ID > click on Whatsapp logo next to the customer’s name
+  4. Whatsapp Web will open on a new tab. You can proceed to contact the customers.
+  
+Pro-tips
+
+1. For Whatsapp Rotator, it will work correctly if you activate both Whatsapp Commerce and Whatsapp Rotator in the dashboard.
+2. If you have set up more than one Customer Service number for Whatsapp Rotator but the message is sent by only one number, this is because once the customer created order by clicking Order through Whatsapp, the customer’s number keyed in by the customer will be served by the same Customer Service number that previously served the customer.
+
+Additional features (if needed)
+
+n/a
