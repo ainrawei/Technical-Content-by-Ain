@@ -1,0 +1,30 @@
+Pengenalan
+
+Berikut kami kongsikan cara untuk menggunakan ciri Whatsapp Commerce dan Whatsapp Rotator di dashboard AVANA untuk menghubungi pelanggan anda.
+
+Langkah demi Langkah
+
+A. Tetapkan nombor telefon Whatsapp di dashboard
+  1. Log masuk ke dashboard AVANA (app.avana.asia) menggunakan akaun Facebook atau Gmail anda
+  2. Pergi ke Settings > Store Information > General > Phone Number > masukkan nombor telefon bimbit anda > click Save
+
+B. Tetapkan ciri Whatsapp Commerce
+  1. Log masuk ke dashboard AVANA (app.avana.asia) menggunakan akaun Facebook atau Gmail anda
+  2. Pergi ke Apps > Whatsapp > Whatsapp Commerce > tandakan YES untuk aktifkan ciri ini
+  3. Anda boleh menukar logo kedai untuk ciri Whatsapp Commerce ini. Klik dekat Change Picture untuk muatnaik logo kedai anda
+  4. Skrol ke Whatsapp Commerce URL > klik dekat Copy Link >kongsikan link itu dengan pelanggan anda supaya mereka boleh membeli barangan anda dan membuat bayaran melalui Whatsapp Commerce
+  
+C. Tetapkan ciri Whatsapp Rotator
+  1. Pastikan anda sudah aktifkan ciri Whatsapp Commerce terlebih dahulu. Log masuk ke dashboard AVANA (app.avana.asia) menggunakan akaun Facebook atau Gmail anda > pergi ke Apps > Whatsapp > Whatsapp Commerce > tandakan YES untuk aktifkan ciri ini
+  2. Pergi ke Whatsapp Rotator > tandakan YES untuk aktifkan ciri ini > klik Add More untuk tambah lebih dari satu nombor telefon > klik Save
+  3. Untuk mula menghubungi pelanggan melalui ciri Whatsapp di dashboard, pergi ke My Orders > pilih ID order > klik dekat logo Whatsapp di sebelah nama pelanggan
+  4. Whatsapp Web akan dibuka melalui satu tab baru. Anda boleh teruskan untuk berurusan dengan pelanggan anda.
+  
+Pro-tips
+
+Untuk Whatsapp Rotator, ia hanya akan berfungsi jika anda sudah aktifkan ciri Whatsapp Commerce dan Whatsapp Rotator di dashboard AVANA anda
+Jika anda sudah masukkan lebih dari satu nombor telefon Khidmat Pelanggan untuk Whatsapp Rotator tetapi mesej dihantar melalui satu nombor sahaja, ini kerana selepas pelanggan menghantar pesanan melalui Order by Whatsapp, nombor telefon yang dimasukkan oleh pelanggan akan dihubungi oleh nombor telefon Khidmat Pelanggan yang sama yang pernah menghubungi pelanggan itu.
+
+Ciri Tambahan (Jika Ada)
+
+n/a
