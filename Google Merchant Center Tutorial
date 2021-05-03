@@ -1,0 +1,27 @@
+A. How to Set Up Google Merchant Center
+
+1. Go to Google Merchant Center [https://www.google.com/retail/solutions/merchant-center/] > click Get Started to start registration process
+2. On the Merchant Center section, click Get Started to start setting up your Merchant Center account
+3. You will be redirected to Google Account Sign In page. Sign in using your Google / Gmail account. If you do not have any account, click Create Account
+4. On the Merchant Center Sign Up page, scroll below to fill in your business information > key in your business name > choose country of origin
+5. Scroll down further to set up a checkout landing page to your own website. This means once a customer clicks on your product on Google Shopping, they will be redirected to your website
+6. Next, choose a third party tool (either Shopify or Paypal) that you want to use to integrate with your Merchant Center account
+7. If you want to stay updated with tips and tricks for using Google Merchant Center and to receive invitations from Google for testing any new features, tick on boxes that apply
+8. Read through Google Merchant Center Terms of Service, and tick on the box to indicate that you have agreed with the terms
+9. Scroll to the bottom of the page and click Create Account
+10. You will be taken to the third party’s website that you have chosen in the previous step (Shopify or Paypal). Proceed with the steps to integrate the third party’s website to your Merchant Center account
+11. Review the permissions on the third party’s website before integrating with the Merchant Center account. Click Agree and Connect to proceed
+12. Your third party account has been integrated with your Merchant Center dashboard. You can go to your Merchant Center dashboard > click on Tools and Settings icon > Linked Account > Platforms to check, link or unlink your third party accounts
+
+B. How to Verify Your Website on Google Merchant Center
+
+1. Go to your Merchant Center dashboard > click on Tools and Settings icon > Business Information
+2. On the Business Information section, go to Website to have your website URL verified. Key in your website URL, then click Continue to start verification
+3. It will take a while to have your website URL verified. Once the verification is done, your website status will be changed to Verified
+4. Your website URL is verified BUT unclaimed. If you want to claim your website and your website has not been claimed by another Merchant Center account, proceed by clicking Claim Website
+
+Notes:
+
+1. If you cannot claim your website, it is because your URL has been claimed by another Merchant Center account on a higher level, e.g. your URL shopname.avana.asia cannot be claimed because it belongs to AVANA (.avana.asia).
+2. It is advisable for you to have your own website URLs that ends with domains such as .com, .com.my, or .my. You can purchase your domain (.com, .com.my, or .my) from us, or any external domain provider.
+3. If you have purchased your own domain and have your website verified but still cannot proceed to claim your website, kindly refer to this link [https://support.google.com/merchants/answer/176793?hl=en#zippy=%2Cupload-an-html-file%2Cgoogle-tag-manager%2Cgoogle-analytics] and try out the solutions as per suggested, then you can try to claim again.
